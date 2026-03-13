@@ -73,6 +73,24 @@ node src/server.js
 
 ---
 
+## 📷 Screenshots
+
+### Cliente
+
+![Cliente](screenshots/cliente.png)
+
+![Cliente](screenshots/cliente_1.png)
+
+### Painel
+
+![Painel](screenshots/painel.png)
+
+![Painel](screenshots/painel_1.png)
+
+![Painel](screenshots/painel_2.png)
+
+---
+
 # 🌐 Acesse o sistema
 
 Cliente:
@@ -83,8 +101,10 @@ Painel:
 
 http://localhost:3000/painel.html
 
+---
 
 ⚠️ O servidor precisa estar rodando no terminal para que o sistema funcione.
+
 ---
 
 # 👨‍💻 Autor
